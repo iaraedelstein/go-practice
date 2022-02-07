@@ -1,0 +1,15 @@
+Cuando no hace falta generar un puntero -> reference type
+
+slices
+maps
+channels
+pointers
+functions
+
+Cuando si hace falta pasar por referencia el puntero -> value type
+
+int 
+float
+string 
+bool
+structs
